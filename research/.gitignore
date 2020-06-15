@@ -1,0 +1,7 @@
+##directory
+bin/
+include/
+
+##file
+readme.txt
+protobuf.zip
